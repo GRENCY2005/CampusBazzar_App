@@ -34,11 +34,11 @@ It provides a safe and convenient platform where students can:
 
 ---
 
-Install Dependencies
-flutter pub get
+## Install Dependencies
+- flutter pub get
 
-Connected devices
-adb devices
+## Connected devices
+- adb devices
 
-Run Application
-flutter run
+## Run Application
+- flutter run
