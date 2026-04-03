@@ -1,16 +1,44 @@
-# campus_bazaar
+# 🛒 CampusBazzar - Student Marketplace App
 
-A new Flutter project.
+## 📌 Project Overview
+**CampusBazzar** is a mobile-based marketplace designed specifically for students to buy, sell, and exchange items within their campus.
 
-## Getting Started
+It provides a safe and convenient platform where students can:
+- Sell used items (books, electronics, accessories, etc.)
+- Buy products at affordable prices
+- Communicate securely with other students
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Features
+- 🔐 User Authentication (Login/Signup)
+- 📦 Post Items for Sale
+- 🔍 Search & Filter Products
+- 💬 In-App Chat System
+- 📊 User Profile Management
+- ☁️ Cloud Database Integration
+- 🔔 Notifications (optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|------|
+| Flutter | Mobile App Development |
+| Dart | Programming Language |
+| Firebase Authentication | User Login |
+| Firebase | Database |
+| Base64 Storage | Image Upload |
+| Firebase Cloud Messaging | Notifications |
+
+---
+
+Install Dependencies
+flutter pub get
+
+Connected devices
+adb devices
+
+Run Application
+flutter run
