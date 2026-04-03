@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425224463065",
+    "project_id": "campusbazzar-23it112",
+    "storage_bucket": "campusbazzar-23it112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425224463065:android:ce91c89d989e31bda354c8",
+        "android_client_info": {
+          "package_name": "com.campusbazzar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425224463065-dd0gpp3gdd37tjdcai1hi1plsi5uvbs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTXyapBbWxoSAdFyzaaN45nLvReC8WKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425224463065-dd0gpp3gdd37tjdcai1hi1plsi5uvbs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
